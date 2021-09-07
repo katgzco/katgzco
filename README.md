@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 | C | Python | MySql | SqlAlchemy | Git | Bash | Docker | Linux |
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katgzco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
