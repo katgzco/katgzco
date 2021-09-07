@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Katherin </h1>
 
 - 🔭 I'm currently studying at **Holberton School**
-- 🌱 I'm currently learning **Python, javascript, c, mysql and much more**
+- 🌱 I'm currently learning **Python, javascript, c, mysql and more**
 
 
 <h3 align="center">Connect with me:</h3>
