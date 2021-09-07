@@ -14,7 +14,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <a href="https://www.cprogramming.com/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/40/000000/c-programming.png" alt="c" width="40" height="40"/>
 </a>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
