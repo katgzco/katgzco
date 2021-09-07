@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
   <a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/50/000000/docker.png" alt="docker" width="40" height="40"/>
   </a>
 </p>
 
