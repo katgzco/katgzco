@@ -1,5 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Katherin </h1>
 
+<h2 align="center">In love with being able to express my ideas through code. 💻 </h2>
+
 - 🔭 I'm currently studying at **Holberton School**
 - 🌱 I'm currently learning **Python, javascript, c, mysql and more**
 
