@@ -2,8 +2,7 @@
 
 <h2 align="center">In love with being able to express my ideas through code. 💻 </h2>
 
-- 🔭 I'm currently studying at **Holberton School**
-- 🌱 I'm currently learning **Python, javascript, c, mysql and more**
+- 🌱 I'm currently learning **Python, javascript, c, data structures, mysql and more**
 
 
 <h3 align="center">Connect with me:</h3>
